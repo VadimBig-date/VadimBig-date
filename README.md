@@ -24,94 +24,47 @@
 
 <br>
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+### 🛠 Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
+
+---
+
+### 🌐 Socials
+
+<p align="left">
+  <a href="https://github.com/VadimBig-date" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/ApprovedByVadim" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</div>
+
+---
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,postgres,bash,docker,linux,vscode,git,fastapi&perline=8" />
+  <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=brightgreen&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
   
   <br><br>
   
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<h2 align="center">🔥 GitHub Activity</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VadimBig-date&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VadimBig-date&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimBig-date&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VadimBig-date&theme=tokyo-night&hide_border=true&area=true" width="90%" />
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<h2 align="center">🏆 Achievements & Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VadimBig-date&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="90%" />
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-  
-  <a href="https://github.com/VadimBig-date">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/ApprovedByVadim">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Data+Driven+Decision+Making+💡;Turn+Insights+Into+Action+🚀;Analytics+That+Matters+📊;Building+Better+Products+Through+Data+⚡" alt="Motivational Banner" />
   
   <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=VadimBig-date&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00F7F4&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+Always+Learning+%7C+Always+Growing;%F0%9F%93%88+Driven+By+Data+%7C+Powered+By+Coffee;%F0%9F%9A%80+Let's+Build+Something+Amazing+Together!" alt="Footer" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>

@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=700&lines=Ты+на+правильном+пути..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=700&lines=You're+on+the+right+path..." alt="Typing SVG" />
 </div>
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /> 
-  Вадим Гуцулюк
+  Vadim Gutsulyuk
 </h1>
 
 <h3 align="center">I'm a product analyst</h3>
@@ -44,5 +44,5 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>

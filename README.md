@@ -1,6 +1,5 @@
-<div align="center" style="position: relative;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="position: absolute; width: 100%; height: 100%; object-fit: cover; opacity: 0.3;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=700&lines=Ты+на+правильном+пути..." alt="Typing SVG" style="position: relative; z-index: 1;" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=700&lines=Ты+на+правильном+пути..." alt="Typing SVG" />
 </div>
 
 <h1 align="center">

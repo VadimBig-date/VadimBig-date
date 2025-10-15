@@ -50,5 +50,13 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=brightgreen&style=for-the-badge&label=VISITORS" alt="Visitor Count" style="width: 80%; max-width: 600px; height: 50px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Profile%20Statistics&fontSize=40&fontColor=00FF00&animation=twinkling" width="100%" />
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=brightgreen&style=for-the-badge&label=PROFILE+VISITORS" alt="Visitor Count" />
+  
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%" />
 </div>

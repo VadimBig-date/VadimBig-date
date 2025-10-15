@@ -33,7 +33,7 @@
 
 <p align="left">
   <a href="https://github.com/VadimBig-date" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/ApprovedByVadim" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -45,4 +45,10 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>

@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Code+%7C+Analyze+%7C+Optimize+%E2%9A%A1;%F0%9F%93%8A+Data+Science+%7C+SQL+%7C+Python+%F0%9F%93%8A;%F0%9F%92%A1+Product+Strategy+%7C+Analytics+%F0%9F%92%A1" alt="Skills Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Code+%7C+Analyze+%7C+Optimize+%E2%9A%A1;%F0%9F%93%8A+Data+Science+%7C+SQL+%7C+Python+%F0%9F%93%8A;%F0%9F%92%A1+Product+Strategy+%7C+Analytics+%F0%9F%92%A1" alt="Skills Banner" />
 </div>
 
 <br>
@@ -64,7 +64,7 @@
   
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Data+Driven+Decision+Making+💡;Turn+Insights+Into+Action+🚀;Analytics+That+Matters+📊;Building+Better+Products+Through+Data+⚡" alt="Motivational Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Data+Driven+Decision+Making+💡;Turn+Insights+Into+Action+🚀;Analytics+That+Matters+📊;Building+Better+Products+Through+Data+⚡" alt="Motivational Banner" />
   
   <br><br>
 </div>

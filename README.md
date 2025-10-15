@@ -54,15 +54,13 @@
   
   <br><br>
   
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=brightgreen&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=brightgreen&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
   
-  <br>
+  <br><br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Data+Driven+Decision+Making+💡;Turn+Insights+Into+Action+🚀;Analytics+That+Matters+📊;Building+Better+Products+Through+Data+⚡" alt="Motivational Banner" />
+  
+  <br><br>
   
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,16,20&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>

@@ -1,9 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=700&lines=Ты+на+правильном+пути..." alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<div align="center" style="position: relative;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="position: absolute; width: 100%; height: 100%; object-fit: cover; opacity: 0.3;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=700&lines=Ты+на+правильном+пути..." alt="Typing SVG" style="position: relative; z-index: 1;" />
 </div>
 
 <h1 align="center">
@@ -12,6 +9,10 @@
 </h1>
 
 <h3 align="center">I'm a product analyst</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 ---
 
@@ -33,18 +34,11 @@
 
 <p align="left">
   <a href="https://github.com/VadimBig-date" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" />
   </a>
-  <a href="https://t.me/ApprovedByVadim" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" width="32" height="32" alt="Telegram" style="filter: invert(1);" />
-    </picture>
+  &nbsp;&nbsp;
+  <a href="https://t.me/ApprovedByVadim" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="Telegram" />
   </a>
 </p>
 

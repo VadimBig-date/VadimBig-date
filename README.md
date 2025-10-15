@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0891B2&center=true&vCenter=true&width=600&lines=Привет!+Меня+зовут+Вадим+Гуцулюк" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Ты+на+правильном+пути..." alt="Typing SVG" />
 </div>
 
 <h1 align="center">
@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" />
   </a>
   <a href="https://t.me/ApprovedByVadim" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" alt="Telegram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" alt="Telegram" />
   </a>
 </p>
 

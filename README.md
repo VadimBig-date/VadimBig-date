@@ -50,7 +50,12 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,16,20&height=120&section=header&text=📊%20Profile%20Stats&fontSize=35&fontColor=00FF00&animation=fadeIn" width="100%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=VadimBig-date&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimBig-date&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
   
   <br><br>
   

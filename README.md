@@ -33,7 +33,7 @@
 
 <p align="left">
   <a href="https://github.com/VadimBig-date" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/ApprovedByVadim" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -52,6 +52,4 @@
 <div align="center">
   <h2 style="color: #00FF00;">📊 Profile Analytics</h2>
   <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=brightgreen&style=for-the-badge&label=VISITORS" alt="Visitor Count" height="40" />
-  <br><br>
-  <img src="https://img.shields.io/github/followers/VadimBig-date?style=for-the-badge&color=00FF00&labelColor=000000&logo=github" alt="GitHub Followers" height="40" />
 </div>

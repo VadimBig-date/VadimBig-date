@@ -50,6 +50,5 @@
 ---
 
 <div align="center">
-  <h2 style="color: #00FF00;">📊 Profile Analytics</h2>
-  <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=brightgreen&style=for-the-badge&label=VISITORS" alt="Visitor Count" height="40" />
+  <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=brightgreen&style=for-the-badge&label=VISITORS" alt="Visitor Count" style="width: 80%; max-width: 600px; height: 50px;" />
 </div>

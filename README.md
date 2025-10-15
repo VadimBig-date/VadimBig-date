@@ -50,5 +50,8 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <h2 style="color: #00FF00;">📊 Profile Analytics</h2>
+  <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=brightgreen&style=for-the-badge&label=VISITORS" alt="Visitor Count" height="40" />
+  <br><br>
+  <img src="https://img.shields.io/github/followers/VadimBig-date?style=for-the-badge&color=00FF00&labelColor=000000&logo=github" alt="GitHub Followers" height="40" />
 </div>

@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Vadim+Gutsulyuk;Product+Analyst+%7C+Data+Enthusiast;Turning+Data+Into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=00F7F4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Vadim+Gutsulyuk;Product+Analyst+%7C+Data+Enthusiast;Turning+Data+Into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br>
@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Code+%7C+Analyze+%7C+Optimize+%E2%9A%A1;%F0%9F%93%8A+Data+Science+%7C+SQL+%7C+Python+%F0%9F%93%8A;%F0%9F%92%A1+Product+Strategy+%7C+Analytics+%F0%9F%92%A1" alt="Skills Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Code+%7C+Analyze+%7C+Optimize+%E2%9A%A1;%F0%9F%93%8A+Data+Science+%7C+SQL+%7C+Python+%F0%9F%93%8A;%F0%9F%92%A1+Product+Strategy+%7C+Analytics+%F0%9F%92%A1" alt="Skills Banner" />
 </div>
 
 <br>
@@ -24,9 +24,9 @@
 
 <br>
 
-### 🛠 Skills
+<h3 align="center">🛠 Skills</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
@@ -38,9 +38,9 @@
 
 ---
 
-### 🌐 Socials
+<h3 align="center">🌐 Socials</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/VadimBig-date" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" />
   </a>

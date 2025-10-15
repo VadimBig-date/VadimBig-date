@@ -50,13 +50,19 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Profile%20Statistics&fontSize=40&fontColor=00FF00&animation=twinkling" width="100%" />
-  
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=brightgreen&style=for-the-badge&label=PROFILE+VISITORS" alt="Visitor Count" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,16,20&height=120&section=header&text=📊%20Profile%20Stats&fontSize=35&fontColor=00FF00&animation=fadeIn" width="100%" />
   
   <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=brightgreen&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,16,20&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>

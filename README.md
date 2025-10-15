@@ -51,14 +51,6 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=VadimBig-date&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimBig-date&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
-  
-  <br><br>
-  
   <img src="https://komarev.com/ghpvc/?username=VadimBig-date&color=brightgreen&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
   
   <br><br>

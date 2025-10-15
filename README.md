@@ -32,11 +32,11 @@
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://github.com/VadimBig-date" target="_blank" rel="noreferrer">
+  <a href="https://github.com/VadimBig-date" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/ApprovedByVadim" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://t.me/ApprovedByVadim" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="Telegram" />
   </a>
 </p>
